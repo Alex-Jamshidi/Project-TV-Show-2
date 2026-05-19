@@ -5,16 +5,11 @@ The goals of level 0 are to:
 * Deploy it to Netlify.
 * Make sure whenever you push changes your Netlify site will be updated.
 
-> [!WARNING]  
-> Unlike other projects at CYF, you are not going to _fork_ this project, you're going to create a repository from a template repository.
-
-## Create your repository
+## Fork your repository
 
 1. Go to https://github.com/CodeYourFuture/Project-TV-Show
-2. Click on the green button: `Use this template.`
-3. Name your new repo exactly this: `Project-TV-Show`
-4. Do not enable `Include all branches`
-5. Click the final green button `Create repository from template`
+2. Fork the repo to your account
+3. Do not enable `Include all branches`
 
 ## Deploy your site
 

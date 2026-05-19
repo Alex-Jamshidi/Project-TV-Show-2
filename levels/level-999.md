@@ -2,6 +2,8 @@
 
 Do not do any of these until you have completed level 500!
 
+Submit your Pull Request for level 500 first, and then work on these in a new branch for level 999.
+
 Here are some ideas for consideration for further work:
 1. Add cast listing to your show listing, http://api.tvmaze.com/shows/1?embed=cast
 2. Add cast listing to your episode listing, http://api.tvmaze.com/shows/1?embed=cast
