@@ -2,11 +2,15 @@
 
 For level 200, you are not allowed to work on the same codebase as you worked on for level 100.
 
-Swap repos with a random person in your class. You do not need to coordinate your schedules.
+Swap repos with a random person in your class. You may find it helpful to do this first step together:
 
-Fork their GitHub repository to your GitHub username. You will need to give it a different name (e.g. `Project-TV-Show-Partner`), because you already have a repo named `Project-TV-Show`.
+1. Go to _your_ copy of `Project-TV-Show`
+2. Go to the repository settings
+3. Under "collaborators", next to "manage access", click "add people" and invite the user name of your partner
+4. Visit the URL for your _partner's_ project and accept the invitation to collaborate
+5. Clone your _partner's_ repository to your laptop, you will need to give it a different name, such as `Project-TV-Show-THEIR_NAME`
 
-Clone their repository to your laptop.
+Now, work individually to complete level 200:
 
 Look at their level 100 implementation.
 
@@ -28,7 +32,14 @@ Some example ideas that you may want to think about:
 1. Could any variables or functions have more clear names, to help you understand what they do?
 2. Would [extracting functions](https://code.visualstudio.com/docs/editor/refactoring) help make some code easier to understand?
 
-Make a pull request to your partner's repo with any changes you want to make. Have them review, and when happy, merge your PR.
+Work in a new branch on your _partner's_ repo, making any changes you think are useful.
+Then make a pull request to your _partner's_ main branch (take care not to PR to the CYF main branch yet).
+Have them review, and when happy, merge your PR.
+
+![Git branch diagram for level200](branch-level200.png)
+
+![Select the partner repo in the dropdown when making a PR for level200](pr-level200.png)
+
 
 ## Adding new functionality
 

@@ -2,6 +2,10 @@
 
 For level 400, you should work in the repo of your partner from level 200.
 
+You do not need to re-add yourself as a collaborator.
+
+Remember to change to the right directory on your machine, and pull the latest changes from their main branch.
+
 Before writing any new code, look at their level 300 implementation.
 
 Compare their implementation to yours. Think:
@@ -17,6 +21,8 @@ Have a discussion about your answers to these questions. In class, together you 
 ## Refactoring
 
 Feel free to change anything in your codebase which you think will make it easier to work with, or to build new features.
+
+Consider using a branch for level 400 and making a pull request for your partner to review again.
 
 Have your partner review any changes you have, and make sure they understand them.
 

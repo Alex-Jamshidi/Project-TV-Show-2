@@ -85,3 +85,36 @@ After that, you're going to swap codebases with someone else. You should complet
 You are allowed to change anything in your partner's code to make it easier to understand or build on, but they must understand and accept your changes.
 
 Remember, finish each level before you move on to the next. Reach out for help when you're stuck.
+
+
+## Submission
+This task has 6 steps of implementation: level 0 through to level 500.
+You will **not** submit a PRs to `CodeYourFuture/Project-TV-Show` until you have finished level 500.
+You may collaborate with another partner and submit pull requests to each other's repos, instructions will be given in level200 for how to do this.
+
+When you have finished level 500, you will submit a pull request back to `CodeYourFuture/Project-TV-Show`.
+As you will have been using different branches during this project, make sure you are submitting a PR for the correct one.
+Then go through the normal PR flow to finally submit.
+
+There is a stretch level 999 if you want to practice more, you should not submit this as part of your PR.
+If you want feedback, ask for this to be done separately.
+
+In the description of your pull request, include a link to the deployed page.
+
+### Instructions for Reviewers
+**Requirements**
+If this is your first review of the TV show project, familiarise yourself with the task requirements.
+For your convenience, you can find a list of all the requirements [here](levels/Reviewers-All-Requirements.md).
+There are no rules about how the site should look, only how it behaves.
+
+**How to review**
+Submission is done via a PR, like usual.
+The trainees have been working in pairs, so it is normal if you see evidence of collaboration.
+Each pair will have submitted their own final version, and these can differ so they should be reviewed independently.
+
+Do not try to deploy the page for your own review.
+Use the URL to the deployed page provided by the trainee.
+If they did not include this in the PR description, ask for them to add this, and don't proceed with the review until they do so.
+
+Check any changes made, and raise issues for problems in implementation or where the requirements are not met.
+Only the trainee submitting that PR should respond and make changes, not their partner.

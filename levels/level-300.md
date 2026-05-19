@@ -2,7 +2,9 @@
 
 For level 300, you should switch back to your original codebase.
 
-You should have merged someone else's level 200 implementation.
+You should have merged someone else's level 200 implementation through a PR.
+
+Remember to pull the latest changes onto your local machine.
 
 Once again, compare their implementation to yours. Think:
 1. How is it different?
@@ -17,6 +19,8 @@ Have a discussion about your answers to these questions. In class, together, giv
 Like with level 200, feel free to change anything in your codebase which you think will make it easier to work with, or to build new features.
 
 Have your partner review any changes you have, and make sure they understand them.
+
+(Hint: You can make branches and PR into your own repository)
 
 ## Adding new functionality
 
