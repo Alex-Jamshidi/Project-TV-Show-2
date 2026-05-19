@@ -96,18 +96,22 @@ When you have finished level 500, you will submit a pull request back to `CodeYo
 As you will have been using different branches during this project, make sure you are submitting a PR for the correct one.
 Then go through the normal PR flow to finally submit.
 
-There is a stretch level 999 if you want to practice more, you should not submit this as part of your PR.
-If you want feedback, ask for this to be done separately.
+Each partner in the pair needs to make their own PR to submit.
+If the reviewer asks for changes you should do so individually on your own PRs.
 
 In the description of your pull request, include a link to the deployed page.
 
+There is a stretch level 999 if you want to practice more, you should not submit this as part of your PR.
+If you want feedback, ask for this to be done separately.
+
 ### Instructions for Reviewers
-**Requirements**
+
+#### Requirements
 If this is your first review of the TV show project, familiarise yourself with the task requirements.
 For your convenience, you can find a list of all the requirements [here](levels/Reviewers-All-Requirements.md).
 There are no rules about how the site should look, only how it behaves.
 
-**How to review**
+#### How to review
 Submission is done via a PR, like usual.
 The trainees have been working in pairs, so it is normal if you see evidence of collaboration.
 Each pair will have submitted their own final version, and these can differ so they should be reviewed independently.
