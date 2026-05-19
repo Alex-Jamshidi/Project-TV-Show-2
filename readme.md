@@ -100,6 +100,7 @@ Each partner in the pair needs to make their own PR to submit.
 If the reviewer asks for changes you should do so individually on your own PRs.
 
 In the description of your pull request, include a link to the deployed page.
+You should also give the name of the partner you worked with.
 
 There is a stretch level 999 if you want to practice more, you should not submit this as part of your PR.
 If you want feedback, ask for this to be done separately.
