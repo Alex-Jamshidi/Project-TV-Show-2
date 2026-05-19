@@ -4,11 +4,13 @@ For level 200, you are not allowed to work on the same codebase as you worked on
 
 Swap repos with a random person in your class. You may find it helpful to do this first step together:
 
-1. Go to _your_ copy of `Project-TV-Show`
-2. Go to the repository settings
-3. Under "collaborators", next to "manage access", click "add people" and invite the user name of your partner
-4. Visit the URL for your _partner's_ project and accept the invitation to collaborate
-5. Clone your _partner's_ repository to your laptop, you will need to give it a different name, such as `Project-TV-Show-THEIR_NAME`
+1. Go to _your_ copy of `Project-TV-Show` and click on the setting
+2. Go to the "collaborators" section
+3. Next "manage access", click "add people"
+4. Type the username your partner
+5. Click the green add button
+6. Visit the URL for your _partner's_ project and accept the invitation to collaborate / check your email for the invite link
+7. Clone your _partner's_ repository to your laptop, you will need to give it a different name, such as `Project-TV-Show-THEIR_NAME`
 
 Now, work individually to complete level 200:
 

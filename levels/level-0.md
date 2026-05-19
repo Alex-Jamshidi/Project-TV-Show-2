@@ -23,7 +23,7 @@ The goals of level 0 are to:
 2. Open your repository in VS Code
 3. Open the `index.html` page in Chrome
 4. Make sure in Chrome you can see the text "Got 73 episode(s)" in red. If you can't, something has gone wrong.
-5. Edit `index.html` to include your name and github username in the page title instead of "(My Name (My GitHub username))".
+5. Edit `index.html` to include your name and GitHub username in the page title instead of "(My Name (My GitHub username))".
 
 ## Push your changes
 

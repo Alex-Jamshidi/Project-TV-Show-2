@@ -2,7 +2,7 @@
 
 For level 300, you should switch back to your original codebase.
 
-You should have merged someone else's level 200 implementation through a PR.
+You should have merged your partner's level 200 changes through a PR to your own repo.
 
 Remember to pull the latest changes onto your local machine.
 
