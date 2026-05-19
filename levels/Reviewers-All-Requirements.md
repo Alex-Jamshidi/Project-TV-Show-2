@@ -1,12 +1,12 @@
 There are the main requirements that a submitted project needs checked by reviewers.
 Trainees should not need to refer to this document, and should focus on completing each level one at a time.
 
-1. It is deployed on GitHub pages
-1. The site must fetch data from an API at `TVMaze.com`, **not** a JSON file
+1. It is deployed on GitHub pages or Netlify
+1. The site must fetch data from an API at `TVMaze.com`, never a JSON file in the repo
 	1. The page should state somewhere that the data has (originally) come from [TVMaze.com](https://tvmaze.com/), and link back to that site. 
-	1. During a visit to the website it should never fetch any URL more than once.
+	1. During a visit to the website it should never fetch any URL more than once. (Check this using the dev tools network inspector)
 	1. The site should indicate when data is loading.
-	1. If an error occurred loading the data, notify the user on the page (not only in the console)
+	1. If an error occurred loading the data, notify the user on the page with a useful message (Not only in the console)
 1. Listing Shows - When the site starts, present a listing of all shows ("shows listing")
 	1. For each show, display at least:
 		1. name
@@ -29,8 +29,8 @@ Trainees should not need to refer to this document, and should focus on completi
 	1. The medium-sized image for the episode
 	1. The summary text of the episode
 1. Select Shows - a `select` element to your page so the user can choose a show.
-	1. When the user first loads the page, use the `fetch`ed list of available shows, and add an entry to the drop-down per show.
-	1. When a user selects a show, display the episodes for that show after `fetch`ing the episode list.
+	1. When the user first loads the page, use the fetched list of available shows, and add an entry to the drop-down per show.
+	1. When a user selects a show, display the episodes for that show after fetching the episode list.
 	1. The select must list shows in alphabetical order, case-insensitive.
 1. Select Episodes - a `select` drop-down which lets the user jump quickly to a particular episode:
 	1. The select options are updated whenever a new show is selected, and this select isn't used otherwise
