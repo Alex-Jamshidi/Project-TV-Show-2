@@ -2,7 +2,7 @@
 
 For level 300, you should switch back to your original codebase.
 
-You should have merged your partner's level 200 changes through a PR to your own repo.
+You should have reviewed and merged your partner's level 200 changes through a PR to your own repo.
 
 Remember to pull the latest changes onto your local machine.
 
@@ -18,9 +18,7 @@ Have a discussion about your answers to these questions. In class, together, giv
 
 Like with level 200, feel free to change anything in your codebase which you think will make it easier to work with, or to build new features.
 
-Have your partner review any changes you have, and make sure they understand them.
-
-(Hint: You can make branches and PR into your own repository)
+Make a branch and pull request for yourself, and then have your partner review, making sure they understand the changes made.
 
 ## Adding new functionality
 
