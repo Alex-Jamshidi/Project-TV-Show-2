@@ -34,7 +34,7 @@ The goals of level 0 are to:
 ## Completion criteria
 
 You have completed level 0 when:
-- [ ] You have a GitHub repository called `Project-TV-Show` which is not a fork of this repo.
+- [ ] You have forked the GitHub repository called `Project-TV-Show` into your account.
 - [ ] The `index.html` page on your GitHub project contains your name and GitHub username.
 - [ ] Your project is deployed to Netlify at `cyf-USERNAME-tv.netlify.app`.
 - [ ] Your deployed project has your name and GitHub username in its title.
