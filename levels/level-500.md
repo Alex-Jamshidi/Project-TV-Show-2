@@ -2,7 +2,7 @@
 
 For level 500, you should switch back to your original codebase.
 
-You should have merged someone else's level 400 implementation.
+You should have reviewed and merged someone else's level 400 implementation.
 
 Once again, compare their implementation to yours. Think:
 1. How is it different?
@@ -16,7 +16,7 @@ Have a discussion about your answers to these questions. In class, together you 
 
 Feel free to change anything in your codebase which you think will make it easier to work with, or to build new features.
 
-Have your partner review any changes you have, and make sure they understand them.
+Make a branch and pull request for yourself, and then have your partner review, making sure they understand the changes made.
 
 ## Adding new functionality
 
@@ -42,3 +42,9 @@ Note: Provided your project meets the above requirements, it can **look** howeve
 Here is one example layout.
 
 ![Screenshot of a website with a drop-down list with the show "Breaking Bad" selected](example-screenshots/example-level-500.jpg)
+
+## Submission
+
+Once you have finished your level 500 it is ready to submit.
+
+Check the [README.md](../README.md) for this repo for instructions.

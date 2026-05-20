@@ -2,6 +2,10 @@
 
 For level 400, you should work in the repo of your partner from level 200.
 
+You do not need to re-add yourself as a collaborator.
+
+Remember to change to the right directory on your machine, and pull the latest changes from their main branch.
+
 Before writing any new code, look at their level 300 implementation.
 
 Compare their implementation to yours. Think:
@@ -18,7 +22,7 @@ Have a discussion about your answers to these questions. In class, together you 
 
 Feel free to change anything in your codebase which you think will make it easier to work with, or to build new features.
 
-Have your partner review any changes you have, and make sure they understand them.
+Make a branch and pull request for yourself, and then have your partner review, making sure they understand the changes made.
 
 ## Adding new functionality
 
@@ -43,6 +47,8 @@ We want to display any of them.
 
 > [!NOTE]  
 > Be _careful_ when developing with fetch. By default, every time you make a small change to your app it will be restarted by live server - if you are fetching JSON on page load, the JSON will be downloaded again and again. These frequent HTTP requests may lead to the API permanently banning your IP address from further requests, or "throttling" it for some time. Worse, if they don't, they may cause performance issues for the API service we are using.
+
+Send a pull request to your partner's repo with this functionality. Have them review, and when happy, merge your PR.
 
 #### Screenshot of minimal version
 

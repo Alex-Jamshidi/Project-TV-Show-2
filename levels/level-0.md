@@ -5,16 +5,11 @@ The goals of level 0 are to:
 * Deploy it to Netlify.
 * Make sure whenever you push changes your Netlify site will be updated.
 
-> [!WARNING]  
-> Unlike other projects at CYF, you are not going to _fork_ this project, you're going to create a repository from a template repository.
-
-## Create your repository
+## Fork your repository
 
 1. Go to https://github.com/CodeYourFuture/Project-TV-Show
-2. Click on the green button: `Use this template.`
-3. Name your new repo exactly this: `Project-TV-Show`
-4. Do not enable `Include all branches`
-5. Click the final green button `Create repository from template`
+2. Fork the repo to your account
+3. Do not enable `Include all branches`
 
 ## Deploy your site
 
@@ -28,7 +23,7 @@ The goals of level 0 are to:
 2. Open your repository in VS Code
 3. Open the `index.html` page in Chrome
 4. Make sure in Chrome you can see the text "Got 73 episode(s)" in red. If you can't, something has gone wrong.
-5. Edit `index.html` to include your name and github username in the page title instead of "(My Name (My GitHub username))".
+5. Edit `index.html` to include your name and GitHub username in the page title instead of "(My Name (My GitHub username))".
 
 ## Push your changes
 
@@ -39,7 +34,7 @@ The goals of level 0 are to:
 ## Completion criteria
 
 You have completed level 0 when:
-- [ ] You have a GitHub repository called `Project-TV-Show` which is not a fork of this repo.
+- [ ] You have forked the GitHub repository called `Project-TV-Show` into your account.
 - [ ] The `index.html` page on your GitHub project contains your name and GitHub username.
 - [ ] Your project is deployed to Netlify at `cyf-USERNAME-tv.netlify.app`.
 - [ ] Your deployed project has your name and GitHub username in its title.
