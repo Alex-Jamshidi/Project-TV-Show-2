@@ -89,8 +89,8 @@ Remember, finish each level before you move on to the next. Reach out for help w
 
 ## Submission
 This task has 6 steps of implementation: level 0 through to level 500.
-You will **not** submit a PRs to `CodeYourFuture/Project-TV-Show` until you have finished level 500.
-You may collaborate with another partner and submit pull requests to each other's repos, instructions will be given in level200 for how to do this.
+You will **not** submit a PR to `CodeYourFuture/Project-TV-Show` until you have finished level 500.
+You will collaborate with another partner and submit pull requests to each other's repos, instructions will be given in level200 for how to do this.
 
 When you have finished level 500, you will submit a pull request back to `CodeYourFuture/Project-TV-Show`.
 As you will have been using different branches during this project, make sure you are submitting a PR for the correct one.
