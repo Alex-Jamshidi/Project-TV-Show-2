@@ -47,4 +47,4 @@ Here is one example layout.
 
 Once you have finished your level 500 it is ready to submit.
 
-Check the readme for this repo for instructions.
+Check the [README.md](../README.md) for this repo for instructions.
